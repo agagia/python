@@ -1,2 +1,4 @@
 SystemError
 print
+hash
+
