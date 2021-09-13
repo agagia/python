@@ -1,2 +1,2 @@
 # My python repo
-This repo contains all my apps
+This repo contains all my apps.
